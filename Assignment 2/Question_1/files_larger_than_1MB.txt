@@ -1,0 +1,117 @@
+./.config/Code/Cache/Cache_Data/8e30181658de5310_0
+./.config/Code/Cache/Cache_Data/39bb5340a1867a00_0
+./.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.102.0
+./.config/Code/CachedData/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/chrome/js/9e4a583881604081_0
+./.cache/mesa_shader_cache/index
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db
+./.cache/tracker3/files/meta.db-wal
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db-wal
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db
+./.cache/tracker3/files/meta.db
+./.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-wal
+./.vscode/extensions/github.vscode-pull-request-github-0.102.0/dist/extension.js
+./.vscode/extensions/github.vscode-pull-request-github-0.102.0/dist/browser/extension.js
+./Pictures/Screenshots/Screenshot from 2025-01-26 07-24-49.png
+./snap/snap-store/common/.cache/mesa_shader_cache/index
+./snap/whatsapp-linux-app/2/.config/whatsapp-linux-app/Cache/Cache_Data/0ecc81d4dfe9d453_0
+./snap/github-gui/2/.config/github-gui/Code Cache/js/d7d4521c081afeb7_0
+./snap/chromium/common/chromium/component_crx_cache/oimompecagnajdejgnnjijobebaeigek_1.440875847b5cd49226587533608d33de7de4e906f446a63828cc3321a37db13e
+./snap/chromium/common/chromium/component_crx_cache/jamhcnnkihinmdlkakkaopbjbbcngflc_1.c52c62a7c50daf7d3f73ec16977cd4b0ea401710807d5dbe3850941dd1b73a70
+./snap/chromium/common/chromium/component_crx_cache/obedbbhbpmojnkanicioggnmelmoomoc_1.dfddc50886ccee464d4fc01472513db1467df85e37ef600b19c1ccb8a1a4dcd9
+./snap/chromium/common/chromium/BrowserMetrics-spare.pma
+./snap/chromium/common/chromium/Safe Browsing/UrlSoceng.store.4_13382379189072915
+./snap/chromium/common/chromium/Safe Browsing/ChromeExtMalware.store.32_13382290392778899
+./snap/chromium/common/chromium/WidevineCdm/4.10.2830.0/_platform_specific/linux_x64/libwidevinecdm.so
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001393.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001395.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001378.log
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001375.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001387.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001394.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001383.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001376.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001396.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001373.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001388.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001386.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001374.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001329.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001330.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001382.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001384.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001332.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001391.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001385.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001390.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001328.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001389.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001331.ldb
+./snap/chromium/common/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log
+./snap/chromium/common/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000017.log
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/c68a9e0b64a1b3c4_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/e510d47fc88de2a9_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/a689db7954af69cb_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/f0bf6dc5be4f6779_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/512bad41254b2b81_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/a7d2147c96c2c1ba_s
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/97cfa37973bd2812_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/3e2e31c78fd7afe6_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/3209b994357551e1_0
+./snap/chromium/common/chromium/Default/Cache/Cache_Data/5ab42b49f9e15661_0
+./snap/chromium/common/chromium/Default/Code Cache/js/02efd6bb243de8b6_0
+./snap/chromium/common/chromium/Default/Code Cache/js/cf5f72e004f2a3d0_0
+./snap/chromium/common/chromium/Default/Code Cache/js/20350eab6a21fc63_0
+./snap/chromium/common/chromium/Default/Code Cache/js/464c6a9447112d63_0
+./snap/chromium/common/chromium/Default/Code Cache/js/5c1d8c6948def315_0
+./snap/chromium/common/chromium/Default/Code Cache/js/1d33db2b7d6a6e4d_0
+./snap/chromium/common/chromium/Default/Code Cache/js/274fa62377036b58_0
+./snap/chromium/common/chromium/Default/Code Cache/js/5841f84ff7d06f77_0
+./snap/chromium/common/chromium/Default/Code Cache/js/885854491601c2dd_0
+./snap/chromium/common/chromium/Default/Code Cache/js/efb8142a83649332_0
+./snap/chromium/common/chromium/Default/Code Cache/js/111d5d92ee90407c_0
+./snap/chromium/common/chromium/Default/GPUCache/data_3
+./snap/chromium/common/chromium/Default/GPUCache/data_2
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/c2821160e63951ba_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/d1113f26390ee4c8_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/ac5291328409b097_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/48e925055db1a717_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/3d13413c2c60e3c1_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/5c4268f16cfb37e5_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/d1113f26390ee4c8_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/c60917073237cb6c_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/5c4268f16cfb37e5_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/1f22deb4b89bdd7a_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/ac5291328409b097_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/1f0df66cbde1386c_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/48e925055db1a717_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/a0099f66bbe7cc97_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/9bc1b3ed41618191_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/af455c4f-f52e-438e-8f2e-52c9f8c42360/9bc1b3ed41618191_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/6922468c-db27-4812-a556-6b58adf19f4f/37814dd8c1c329da_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/6922468c-db27-4812-a556-6b58adf19f4f/0b5493cc2a2a2a58_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/6922468c-db27-4812-a556-6b58adf19f4f/d5186d54c32f32db_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/93077fbaacdbbee3_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/45bc219216a93e88_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/8c5553380cde4a48_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/fdd632a549f78e70_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/1e4b30aa7e569fd0_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/80d61b72cd8ce67d_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2794708a-dc94-4f5e-bbe4-2925087d1504/f94fa5a71752ec00_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/edd96f6f-a08f-4bcf-80bc-9215ff0a0bd1/422d60880a921906_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/edd96f6f-a08f-4bcf-80bc-9215ff0a0bd1/8c82b0ac957e3e0d_0
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/edd96f6f-a08f-4bcf-80bc-9215ff0a0bd1/422d60880a921906_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/edd96f6f-a08f-4bcf-80bc-9215ff0a0bd1/a612b730be7de869_1
+./snap/chromium/common/chromium/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/edd96f6f-a08f-4bcf-80bc-9215ff0a0bd1/a612b730be7de869_0
+./snap/chromium/common/chromium/Default/Service Worker/ScriptCache/653e56b4b6556a9e_1
+./snap/chromium/common/chromium/Default/Service Worker/ScriptCache/653e56b4b6556a9e_0
+./snap/chromium/common/chromium/OnDeviceHeadSuggestModel/20250110.715577970.14/cr_en-us_500000_index.bin
+./snap/firefox/common/.mozilla/firefox/gw9f6z6r.default/favicons.sqlite
+./snap/firefox/common/.mozilla/firefox/gw9f6z6r.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+./snap/firefox/common/.mozilla/firefox/gw9f6z6r.default/gmp-gmpopenh264/2.3.2/libgmpopenh264.so
+./snap/firefox/common/.mozilla/firefox/gw9f6z6r.default/places.sqlite
+./snap/firefox/common/.cache/mesa_shader_cache/index
+./snap/firefox/common/.cache/mozilla/firefox/gw9f6z6r.default/startupCache/startupCache.8.little
