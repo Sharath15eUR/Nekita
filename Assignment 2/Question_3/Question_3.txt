@@ -1,3 +1,6 @@
+Q3) Use the appropriate command to search for lines containing the word "ERROR" in a log file but exclude lines containing "DEBUG". Save the results to a file named filtered_log.txt.
+
+
 nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 2/Question_3$ cat>log.txt
 DEBUG: Starting the application initialization.
 ERROR: Unable to connect to the database.
