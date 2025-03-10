@@ -1,9 +1,0 @@
-Q2) Replace all occurrences of "localhost" with "127.0.0.1" in a configuration file named config.txt, and save the updated file as updated_config.txt
-
-nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 2/Question_2$ sed 's/localhost/127.0.0.1/g' config.txt > updated_config.txt
-nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 2/Question_2$ cat updated_config.txt
-server_name 127.0.0.1;
-db_host 127.0.0.1;
-api_endpoint http://127.0.0.1:8080/api;
-cache_host=127.0.0.1;
-

@@ -1,3 +1,0 @@
-Q5) Use the networking tool command and print all the gateway available in a sorted manner
-
-nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 2/Question_2$ ip route | grep default | awk '{print $3}' | sort

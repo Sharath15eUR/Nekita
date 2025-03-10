@@ -1,4 +1,0 @@
-Q1) Use the appropriate command to list all files larger than 1 MB in the current directory and save the output to a file.
-
-nekita-shri@nekita-shri-VirtualBox:~$ find . -type f -size +1M > files_larger_than_1MB.txt
-
