@@ -1,0 +1,9 @@
+Q3)Create a softlink to a file and add it in a different folder
+
+nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 1$ cat>Question_3
+Create a softlink to a file and add it in a different folder
+nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 1$ cd 
+nekita-shri@nekita-shri-VirtualBox:~$ cd Desktop
+nekita-shri@nekita-shri-VirtualBox:~/Desktop$ cd Linux
+nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux$ ln -s "Assignment 1/Question_3" Q3_link
+
