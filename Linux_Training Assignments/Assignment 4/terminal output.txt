@@ -1,0 +1,4 @@
+nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 4$ ./file_processor.sh "/home/nekita-shri/Desktop/Linux_Training/Assignment 4/input_extracted.txt"
+Processing completed! Output saved in output.txt
+nekita-shri@nekita-shri-VirtualBox:~/Desktop/Linux_Training/Assignment 4$ 
+
