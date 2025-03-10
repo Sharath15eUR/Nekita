@@ -1,0 +1,2 @@
+nekita-shri@nekita-shri-VirtualBox:~$ find . -type f -size +1M > files_larger_than_1MB.txt
+
